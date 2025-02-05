@@ -1,4 +1,6 @@
+#define _USE_MATH_DEFINES 
 #include <math.h>
+#define M_PI_2 1.57079632679489661923
 
 //#include "ipw.h"
 #include "envphys.h"
